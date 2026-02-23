@@ -49,7 +49,7 @@ const FeatureList: FeatureItem[] = [
         והעמיק את ההבנה דרך דיאלוג.
       </>
     ),
-    link: 'https://github.com/your-username/philosophy-platform/discussions',
+    link: 'https://github.com/econlabppe-cloud/philosophy-platform/discussions',
     linkText: 'הצטרף לדיון',
     color: 'green',
   },
