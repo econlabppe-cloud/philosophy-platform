@@ -79,11 +79,11 @@ const config: Config = {
           items: [
             {
               label: 'מסלול כרונולוגי',
-              to: '/docs/chronological/ancient/aristotle',
+              to: '/docs/כרונולוגי/עתיק/אריסטו',
             },
             {
               label: 'מסלול תמטי',
-              to: '/docs/thematic/identity/feminism-gender-locke-aristotle',
+              to: '/docs/תמטי/זהות/feminism-gender-locke-aristotle',
             },
           ],
         },
