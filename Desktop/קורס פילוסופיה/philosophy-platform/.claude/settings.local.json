@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote set-url:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git commit:*)",
+      "Bash(git -c core.editor=true commit -m \"Add comprehensive Aristotle and Plato lessons with interactive components\")",
+      "Bash(find:*)",
+      "Bash(ls -la \"C:\\\\Users\\\\User\\\\Desktop\\\\קורס פילוסופיה\\\\philosophy-platform\\\\docs\\\\chronological\\\\modern\\\\spinoza\"\" 2>/dev/null || echo \"Directory not found \")"
+    ]
+  }
+}
